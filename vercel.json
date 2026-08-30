@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/corporate-wala-fixed.html" }
+  ]
+}
